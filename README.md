@@ -1,4 +1,4 @@
-# Factura OCR - Extracción de datos de facturas con Z.ai
+# OcrBot - Invoice OCR with Z.ai
 
 Sistema para extraer automáticamente datos de facturas utilizando el modelo OCR de Z.ai y guardarlos en un archivo CSV.
 
